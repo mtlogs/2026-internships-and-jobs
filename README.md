@@ -1,5 +1,5 @@
-# summer-2024-opportunities
-This repository is for those looking for Summer 2024 full-time jobs, internships or co-ops in areas like software engineering, tech, product, engineering (mechanical, chemical, etc). We also have several non-tech jobs at tech companies like Finance, Business, Marketing, etc!
+# 2025-opportunities
+This repository is for those looking for 2025 full-time jobs, internships or co-ops in areas like software engineering, tech, product, engineering (mechanical, chemical, etc). We also have several non-tech jobs at tech companies like Finance, Business, Marketing, etc!
 
 We are only focusing on opportunities located in the United States, Canada or remote.
 
