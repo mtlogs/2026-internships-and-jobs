@@ -5,15 +5,22 @@ We are only focusing on opportunities located in the United States, Canada or re
 
 Feel free to contribute by submitting a pull request! You can find the contribution guidelines [here](https://github.com/mtlogs/summer-2024-opportunities/commit/a62ee0f12c6d96ef3c2d1ec40422f7f4db38ef07)!
 
-| Name | Location | Location Type | Role | Role Type |
+| Name | Role | Location | Location Type | Role Type |
 | ---- | -------- | ------------- | ---- | --------- |
-| [Epic](https://app.ripplematch.com/v2/public/job/7916871a?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Software Developer | Full-Time |
-| [Epic](https://app.ripplematch.com/v2/public/job/6a9607be?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Technical Solutions Engineer | Full-Time |
-| [Epic](https://app.ripplematch.com/v2/public/job/99617f30?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Infrastructure Engineer | Full-Time |
-| [Epic](https://app.ripplematch.com/v2/public/job/a5699216?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Software Development Intern - Summer 2026 | Internship |
-| [Palo Alto Networks](https://app.ripplematch.com/v2/public/job/77aa34be?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Santa Clara, CA, USA | Software Engineer - Bachelors | Full-Time |
-| [Rockwell Automation](https://app.ripplematch.com/v2/public/job/61f83556?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Multiple Locations | Intern, Software Engineering | Internship |
-| [Rockwell Automation](https://app.ripplematch.com/v2/public/job/84cdcc71?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Mayfield Heights, OH | Intern, Remote Support Engineer (LCS)| Internship |
-| [Rockwell Automation](https://app.ripplematch.com/v2/public/job/13e27d23?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Milwaukee, WI | Intern, Test Engineering| Internship |
-
+| Name | Role (UTM link) | Location | Location Type | Role Type |
+| ---- | ---- | ---- | ---- | ---- |
+| Epic | [Project Manager](https://app.ripplematch.com/v2/public/job/75153adc?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Quality Manager](https://app.ripplematch.com/v2/public/job/8f2bb41a?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Integration Solutions Engineer](https://app.ripplematch.com/v2/public/job/41caa2c2?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Trainer](https://app.ripplematch.com/v2/public/job/1715c2dd?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Infrastructure Engineer](https://app.ripplematch.com/v2/public/job/99617f30?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [User Experience Designer](https://app.ripplematch.com/v2/public/job/0ed8c90f?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Technical Solutions Engineer](https://app.ripplematch.com/v2/public/job/6a9607be?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Integration Project Engineer](https://app.ripplematch.com/v2/public/job/ac2c2835?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [User Experience Design Intern 2026](https://app.ripplematch.com/v2/public/job/dab202a7?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Internship |
+| Epic | [Nurse Project Manager](https://app.ripplematch.com/v2/public/job/a9c5e5b1?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Server Systems Administrator](https://app.ripplematch.com/v2/public/job/0f5b92cd?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Client Systems Administrator](https://app.ripplematch.com/v2/public/job/143d53cb?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Software Developer](https://app.ripplematch.com/v2/public/job/7916871a?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
+| Epic | [Epic - Software Development Intern - Summer 2026](https://app.ripplematch.com/v2/public/job/a5699216?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Internship |
 
