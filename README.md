@@ -5,8 +5,8 @@ We are only focusing on opportunities located in the United States, Canada or re
 
 Feel free to contribute by submitting a pull request! You can find the contribution guidelines [here](https://github.com/mtlogs/summer-2024-opportunities/commit/a62ee0f12c6d96ef3c2d1ec40422f7f4db38ef07)!
 
-| Name | Location | Role | Role Type | 
-| ---- | -------- | ----- | ------ |
+| Name | Location | Location Type | Role | Role Type |
+| ---- | -------- | ------------- | ---- | --------- |
 | [Epic](https://app.ripplematch.com/v2/public/job/7916871a?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Software Developer | Full-Time |
 | [Epic](https://app.ripplematch.com/v2/public/job/6a9607be?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Technical Solutions Engineer | Full-Time |
 | [Epic](https://app.ripplematch.com/v2/public/job/99617f30?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI | Infrastructure Engineer | Full-Time |
