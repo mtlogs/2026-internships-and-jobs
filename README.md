@@ -7,8 +7,6 @@ Feel free to contribute by submitting a pull request! You can find the contribut
 
 | Name | Role | Location | Location Type | Role Type |
 | ---- | -------- | ------------- | ---- | --------- |
-| Name | Role (UTM link) | Location | Location Type | Role Type |
-| ---- | ---- | ---- | ---- | ---- |
 | Epic | [Project Manager](https://app.ripplematch.com/v2/public/job/75153adc?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
 | Epic | [Quality Manager](https://app.ripplematch.com/v2/public/job/8f2bb41a?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
 | Epic | [Integration Solutions Engineer](https://app.ripplematch.com/v2/public/job/41caa2c2?from_page=company_branded_page&utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null) | Madison, WI, USA | In-Person | Full-Time |
